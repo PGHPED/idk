@@ -32,10 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="60" alt="vim logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <!-- Replace 'anuraghazra' with your GitHub username -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?PGHPED=PGHPED&show_icons=true&theme=radical)](https://github.com/PGHPED/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?PGHPED=PGHPED&layout=compact&theme=radical)](https://github.com/PGHPED/github-readme-stats)
 </div>
 
 ###
